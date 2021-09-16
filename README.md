@@ -1,2 +1,3 @@
-# .github
-Bawue.net e.V.
+Baden-Württembergs nichtkommerzieller Internet-Provider
+
+https://www.bawue.net
